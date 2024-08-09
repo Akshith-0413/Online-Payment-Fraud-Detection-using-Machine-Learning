@@ -1,8 +1,4 @@
-# Online-Payment-Fraud-Detection-using-Machine-Learning
 
-Here’s a sample README description for your "Online Payment Fraud Detection using Machine Learning" project on GitHub:
-
----
 
 # Online Payment Fraud Detection using Machine Learning
 
